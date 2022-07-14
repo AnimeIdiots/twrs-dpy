@@ -1,9 +1,9 @@
-token = "NzQwNTc1MjQ2NTA3MTgwMDYy.XyrAcQ.RaynRA9lD7FQKhos1_aAl18YC2k"
+token = "token here"
 
-guild_id = 704602626721054771
-channel_id = 868867988630143038
-message_id = 868868143207034941
+guild_id = 0
+channel_id = 0
+message_id = 0
 
-adminchannel_id = 868867986046459944
+adminchannel_id = 0
 
 emoji = "🎫"
